@@ -1,1 +1,1 @@
-# NEW-CLASS
+# solar_power
